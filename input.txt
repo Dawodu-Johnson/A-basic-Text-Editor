@@ -1,0 +1,7 @@
+Ok this is a simple text editor
+I am about to write five lines now, 
+This is a simple project
+I wrote it to improve my knowledge on the use of iterators,
+sequential containers and standard library features(algorithms)
+functions and classes can be added to increase the range of problems
+this text editor can address, that's it, five lines completed!
